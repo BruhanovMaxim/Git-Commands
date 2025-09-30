@@ -1,4 +1,5 @@
 # Команды Git
+
 `git clone <url>` – создать локальную копию удалённого репозитория.
 `git status` – показывает текущие изменения, отслеживаемые и не отслеживаемые файлы.
 
@@ -9,3 +10,8 @@
 `git push origin bug-fix` – отправить ветку **bug-fix** на GitHub.
 `git pull origin bug-fix` – подтянуть изменения из ветки c GitHub.
 `git merge bug-fix` – слить ветку **bug-fix** в текущую ветку.
+
+---
+
+(LINK)[https://github.com/BruhanovMaxim]
+
