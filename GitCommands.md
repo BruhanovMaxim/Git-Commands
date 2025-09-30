@@ -3,3 +3,5 @@
 `git status` – показывает текущие изменения, отслеживаемые и не отслеживаемые файлы.
 `git add .` – добавить все изменения в **staging area** (можно точечно: `git add file.txt`).
 `git commit -m "Сообщение"` – зафиксировать изменения с комментарием.
+`git push origin bug-fix` – отправить ветку **bug-fix** на GitHub.
+`git pull origin bug-fix` – подтянуть изменения из ветки c GitHub.
